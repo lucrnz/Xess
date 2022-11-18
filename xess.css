@@ -23,14 +23,14 @@ body {
 }
 
 pre {
-  background-color: #44475a;
+  background-color: #333543;
   padding: 1em;
   border: 0;
 }
 
 a, a:active, a:visited {
   color: #ff79c6;
-  background-color: #44475a;
+  background-color: #333543;
 }
 
 h1, h2, h3, h4, h5 {
@@ -54,14 +54,14 @@ img {
     }
 
     pre {
-        background-color: #bbb8a5;
+        background-color: #cccabc;
         padding: 1em;
         border: 0;
     }
 
     a, a:active, a:visited {
         color: #8f2d64;
-        background-color: #bbb8a5;
+        background-color: #cccabc;
     }
 
     h1, h2, h3, h4, h5 {
