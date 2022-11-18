@@ -12,23 +12,23 @@ main {
 }
 
 ::selection {
-  background: #d3869b;
+  background: #ff79c6;
 }
 
 body {
-  background: #282828;
-  color:      #ebdbb2;
+  background: #282a36;
+  color:      #f8f8f2;
 }
 
 pre {
-  background-color: #3c3836;
+  background-color: #44475a;
   padding: 1em;
   border: 0;
 }
 
 a, a:active, a:visited {
-  color: #b16286;
-  background-color: #1d2021;
+  color: #ff79c6;
+  background-color: #44475a;
 }
 
 h1, h2, h3, h4, h5 {
@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5 {
 }
 
 blockquote {
-  border-left: 1px solid #bdae93;
+  border-left: 1px solid #6272a4;
   margin: 0.5em 10px;
   padding: 0.5em 10px;
 }
@@ -45,21 +45,25 @@ footer {
   align: center;
 }
 
+img {
+  max-width: 100%;
+}
+
 @media (prefers-color-scheme: light) {
     body {
-        background: #fbf1c7;
-        color:      #3c3836;
+        background: #d7d5c9;
+        color:      #07070d;
     }
 
     pre {
-        background-color: #ebdbb2;
+        background-color: #bbb8a5;
         padding: 1em;
         border: 0;
     }
 
     a, a:active, a:visited {
-        color: #b16286;
-        background-color: #f9f5d7;
+        color: #8f2d64;
+        background-color: #bbb8a5;
     }
 
     h1, h2, h3, h4, h5 {
@@ -67,7 +71,7 @@ footer {
     }
 
     blockquote {
-        border-left: 1px solid #655c54;
+        border-left: 1px solid #6272a4;
         margin: 0.5em 10px;
         padding: 0.5em 10px;
     }
