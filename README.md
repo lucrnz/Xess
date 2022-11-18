@@ -1,4 +1,10 @@
-# Xess
+# Xess (Luc's fork)
+
+This is a fork of [Xess](https://github.com/Xe/Xess), originally made by [Xe](https://xeiaso.net)
+
+It is made to personally adjust colors and add another tweeks to the stylesheet.
+
+# Xess 
 
 This is a CSS file I've been working on for a few years off and on. It is a
 simple CSS theme that emulates [Gruvbox][gruvbox] with automatic support for
@@ -36,14 +42,6 @@ intended to be a companion to [Xeact](https://github.com/Xe/Xeact)
     </body>
 </html>
 ```
-
-## Dark Mode
-
-![dark mode](darkmode.png)
-
-## Light Mode
-
-![light mode](lightmode.png)
 
 [gruvbox]: https://www.github.com/morhetz/gruvbox
 [darklightmode]: https://css-tricks.com/dark-modes-with-css/
