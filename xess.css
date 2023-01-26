@@ -26,6 +26,7 @@ pre {
   background-color: #333543;
   padding: 1em;
   border: 0;
+  overflow-x: auto;
 }
 
 a, a:active, a:visited {
