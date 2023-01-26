@@ -47,6 +47,10 @@ img {
   max-width: 100%;
 }
 
+code {
+  font-size: 1rem;
+}
+
 @media (prefers-color-scheme: light) {
     body {
         background: #d7d5c9;
